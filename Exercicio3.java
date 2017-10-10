@@ -12,11 +12,15 @@ package listapackage;
 public class Exercicio3 {
        public static void main(String[] args) {
         String nome;
+        String sobreNone;
         int idade;
         double peso;
+        double altura;
         char tsanguineo;
         String aniversario;
         int numeroCalcado;
-        String estadoCivil;   
+        String estadoCivil;
+        
     } 
 }
+//Segunda versão 
